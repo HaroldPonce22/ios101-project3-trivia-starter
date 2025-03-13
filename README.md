@@ -9,7 +9,7 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
+- [X] User can view the current question and 4 different answers
 - [ ] User can view the next question after tapping an answer
 - [ ] User can answer at least 3 different questions
 
