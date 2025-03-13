@@ -3,7 +3,7 @@
 Submitted by: **Harold Ponce Saldivar**
 
 The app is a trivia game!
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -27,20 +27,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-
-
 https://github.com/user-attachments/assets/5d1227f2-7a87-4dad-af2a-e4124b964f4c
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled to find time to complete this assignment due to midterms week.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Harold Ponce Saldivar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
