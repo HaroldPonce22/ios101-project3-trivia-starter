@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 The following **required** functionality is completed:
 
 - [X] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [X] User can view the next question after tapping an answer
+- [X] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
